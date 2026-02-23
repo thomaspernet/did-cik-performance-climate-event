@@ -1,6 +1,3 @@
-# Data (large parquet files)
-data/
-
 # Python
 __pycache__/
 *.pyc
@@ -16,3 +13,5 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+analysis/event_study/diff_in_diff_package/py_did_multiplegt_dyn/data/wagepan.csv
+analysis/event_study/diff_in_diff_package/py_did_multiplegt_dyn/data/favara_imbs_did_multiplegt_dyn.csv
